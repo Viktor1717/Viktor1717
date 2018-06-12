@@ -1,0 +1,80 @@
+<style type="text/css">
+   A {
+    text-decoration: none;
+   } 
+   A:hover { 
+    text-decoration: underline;
+    color: red; 
+   } 
+  </style>
+</head>
+<body style="background-image:url(фон4.png)">
+<body link="red" vlink="black" alink="blue">
+<marquee behavior="alternate">О товаре и o другиx вопросаx обращаться по адресу: <a href="https://e.mail.ru/compose/?1527039725511" target="_blank"><font color="red">Viktor_Ivanov2544@list.ru</a></font> или по номеру телефона: 8-996-321-02-34.</marquee>
+<hr color="red">
+<center>
+<table>
+<td><font size="6"><a href="Главная.html">На главную</a></font>
+<td>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<font size="7"><big>@ </font>
+<sub><font size="4"><font color="red">@</font>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</td>
+<td><font size="6"><B> руб.</font></B>
+<td>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</td>
+<td><form><button><h2><a href="https://e.mail.ru/compose/?1527039725511" target="_blank">Купить!</a></h2></buttom></form>
+</table>
+</center>
+<hr color="red">
+<p align="justify"><font size="4"></font></p>
+<hr>
+<center>
+<img src=".jpg" width="220" height="240">
+<img src="2.jpg" width="220" height="240">
+<img src="3.jpg" width="220" height="240">
+<img src="4.jpg" width="220" height="240">
+<img src="5.jpg" width="220" height="240">
+</center>
+<hr>
+<center>
+<p><B><font size="6">Основные характеристики:</B></p>
+<table cellspacing="14">
+<tr>
+<td><font size="4">Поддержка сетей 4G (LTE)</td>
+<td><font size="4"></td>
+<td><font size="4">Количество ядер</td>
+<td><font size="4">4</td>
+<tr>
+<td><font size="4">Частота работы процессора</td>
+<td><font size="4"></td>
+<td><font size="4">Объем оперативной памяти</td>
+<td><font size="4"></td>
+<tr>
+<td><font size="4">Количество мегапикселей основной камеры</td>
+<td><font size="4"></td>
+<td><font size="4">Количество мегапикселей фронтальной камеры</td>
+<td><font size="4"></td>
+<tr>
+<td><font size="4">Емкость аккумулятора (мАч)</td>
+<td><font size="4"></td>
+<td><font size="4">Производитель процессора</td>
+<td><font size="4"></td>
+<tr>
+<td><font size="4">Объем встроенной памяти</td>
+<td><font size="4"></td>
+<td><font size="4">Датчики</td>
+<td><font size="4">акселерометр</td>
+<tr>
+<td><font size="4">Формат видеосъемки</td>
+<td><font size="4">Full (HD)</td>
+<td><font size="4">Формат видеосъемки</td>
+<td><font size="4">Li-ion</td>
+</table>
+<br>
+<br>
+</body>
+</body>
+</html>
